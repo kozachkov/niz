@@ -1,0 +1,9 @@
+title: Низкоуровневая разработка
+author_url: 
+description: >- # this means to ignore newlines until "baseurl:"
+baseurl: "/niz"
+url: ""
+
+theme: minima
+plugins:
+  - jekyll-feed
